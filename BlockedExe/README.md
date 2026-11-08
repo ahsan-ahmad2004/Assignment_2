@@ -46,5 +46,6 @@ Invalid drops/placements never consume the piece.
 | `InputHandler`, `InputState` | mouse + keyboard |
 | `GamePanel` (Swing Timer loop), `GameFrame`, `Main` | window and wiring |
 
-## Work division
-(fill in: member names and what each did)
+
+
+
